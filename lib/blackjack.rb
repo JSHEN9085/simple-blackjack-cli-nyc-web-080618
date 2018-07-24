@@ -62,5 +62,6 @@ def runner
   # code runner here
   puts "Please enter a valid command"
   prompt_user
+  get_user_input
 end
     
