@@ -64,6 +64,7 @@ end
 def runner
   # code runner here
   welcome
-  initial_round
+  cardTotal = initial_round
+  
 end
     
